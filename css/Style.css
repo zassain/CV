@@ -15,9 +15,9 @@ div {
 }
 
 .top-section {
-  position: absolute;
-  margin-left: 30rem;
-  margin-top: 28rem;
+  position: fixed;
+  margin-left: 25vw;
+  margin-top: 25vw;
   font-size: 2vw;
   color: #15317E;
 }
