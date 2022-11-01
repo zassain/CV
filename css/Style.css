@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+}
+
+#wallpaper {
+  width: 100%;
+}
+
+div {
+  width: 50vw;
+  margin: 0 auto;
+  line-height: 2;
+}
+
+.top-section {
+  position: absolute;
+  margin-left: 25vw;
+  margin-top: 25vw;
+  font-size: 2vw;
+  color: #15317E;
+}
+
+
+h2, h3 {
+  color: #15317E;
+}
+
+#profile_img {
+  width: 15rem;
+}
+
+.Skill-row {
+  text-align: left;
+}
+
+.skill-img {
+  width: 8rem;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row1 {
+  text-align: right;
+}
+
+.skill-row-img {
+  width: 8rem;
+  float: right;
+  margin-left: 30px;
+}
+
+.Interests {
+  text-align: left;
+}
+
+
+.interests-img {
+  width: 9rem;
+  float: left;
+  margin-right: 30px;
+}
+
+hr {
+
+  text-align: center;
+  width: 50%;
+  border-style: dotted none none none;
+  border-color: rgba(0, 0, 128, 0.6);
+  border-width: .7rem;
+}
+
+footer {
+  background-color: #AFEEEE;
+}
+
+.footer-images {
+  width: 4rem;
+  padding: 15px;
+}
